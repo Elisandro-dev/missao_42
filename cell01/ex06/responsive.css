@@ -14,7 +14,7 @@ table {
 
 td {
     width: 50%;
-    text-align: center;
+    text-align: left;
     vertical-align: middle;
     border: 1px solid black;
     font-size: clamp(16px, 5vw, 56px);

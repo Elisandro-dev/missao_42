@@ -1,0 +1,36 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    min-height: 100%;
+}
+
+table {
+    width: 100%;
+    height: 100vh;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+td {
+    width: 50%;
+    border: 1px solid black;
+    overflow-wrap: break-word;
+    text-align: left;
+    vertical-align: middle;
+    font-size: 40px;
+}
+
+.elisandro {
+    background-color: lightblue;
+}
+
+.varela {
+    background-color: lightcoral;
+}
